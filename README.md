@@ -1,6 +1,9 @@
 # Game-Map-Maker
 Java GUI program that enables the user to create maps for 2d games with ease.
 
+![Map_Maker_Example_Map](https://user-images.githubusercontent.com/70844165/92331557-4148ed80-f080-11ea-89de-3ac974e94f64.JPG)
+
+
 ## How to use
 
 1. Open the Map_Maker.jar file.<br>
