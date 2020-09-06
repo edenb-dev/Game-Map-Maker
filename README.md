@@ -8,20 +8,20 @@ Java GUI program that enables the user to create maps for 2d games with ease.
 3. Click / Drag your mouse on the grid to draw.<br>
 4. Delete blocks by right clicking / draging your mouse over them.<br>
 5. After finishing the map, make sure to save it by clicking the "Save Map" button on the top right.<br>
-<br>
+
 * Use the extra features for better control, ease of use, and over all a better experience.
 
 
 
 ## Features
 
-Importing / Exporting - Enable's saving and loading of maps.<br>
-Map Resizing - Scale the map size to the perfect size for your game.<br>
-Zoom In/Out - Uses the scroll wheel, to zoom in/out.<br>
-Block Picker Mode - Enable's selection of a block to draw with, from the grid.<br>
-Hand Mode - Enable's movement of the grid.<br>
+* Importing / Exporting - Enable's saving and loading of maps.<br>
+* Map Resizing - Scale the map size to the perfect size for your game.<br>
+* Zoom In/Out - Uses the scroll wheel, to zoom in/out.<br>
+* Block Picker Mode - Enable's selection of a block to draw with, from the grid.<br>
+* Hand Mode - Enable's movement of the grid.<br>
 <br>
-Secret Options - Enable's the user to see the current mode selected.
+* Secret Options - Enable's the user to see the current mode selected.
 
 ### How to use
 
