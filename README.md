@@ -21,7 +21,7 @@ Java GUI program that enables the user to create maps for 2d games with ease.
 * Block Picker Mode - Enable's selection of a block to draw with, from the grid.<br>
 * Hand Mode - Enable's movement of the grid.<br>
 <br>
-* Secret Options - Enable's the user to see the current mode selected.
+* Secret Options - Enable's the user to see the current modes selected.
 
 ### How to use
 
@@ -45,7 +45,7 @@ When hovering on the grid simply use your scroll wheel, to zoom in/out of the gr
 
 #### Block Picker Mode
 
-When activated the user can select a block from the grid.<br>
+When activated the user can select a block from the grid, and can then start drawing with it.<br>
 - Press 'b' to activate / deactivate.
 
 #### Hand Mode
@@ -56,7 +56,7 @@ When activated, clicking on the grid will "catch" the grid at that point, and yo
 #### Secret Options
 
 This mode is used to clear up space in the window.<br>
-When activated you will be able to see a menu will all the modes, and their current status.<br>
+When activated you will be able to see a menu with all the modes, and their current status.<br>
 - Press 'o' to reveal / hide the menu.
 
 
@@ -69,3 +69,7 @@ Lastly replace the file in './src/ResourcePack/', with your file.<br>
 <br>
 Note :<br>
 * The sprite's top column and the left row are used as a separators. ( each sprite is actually 63x63 with a buffer at the top and left )
+
+## Built With
+
+[JavaFX](https://openjfx.io/) - The GUI framework used.
