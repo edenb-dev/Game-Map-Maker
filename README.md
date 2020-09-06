@@ -45,11 +45,11 @@ Block Picker Mode - When activated the user can select a block from the grid. ( 
 
 #### Importing / Exporting of the map
 
-On the top right corner of the window, there are 2 button that control the importing / exporting of the map.
-The "Load Map" button corresponds to importing the saved map.
-The "Save Map" button corresponds to exporting of the map.
-
-To import a map, click on the "Load Map" button, search for your saved map, and click open.
+On the top right corner of the window, there are 2 button that control the importing / exporting of the map.<br>
+The "Load Map" button corresponds to importing the saved map.<br>
+The "Save Map" button corresponds to exporting of the map.<br>
+<br>
+To import a map, click on the "Load Map" button, search for your saved map, and click open.<br>
 To export a map, click on the "Save Map" button, and a new file will be created in the directory that the program was lanuched from. ( The exported file name "Map.txt" ) 
 
 #### Map Resizing
