@@ -34,7 +34,7 @@ The program frovides you with couple of features
 
 1. Open the Map_Maker.jar file.<br>
 
-## Features
+#### Features
 
 Importing / Exporting of the map.<br>
 Map Resizing - .<br>
