@@ -11,7 +11,7 @@ Java GUI program that enables the user to create maps for 2d games with ease.
 
 * Use the extra features for better control, ease of use, and over all a better experience.
 
-
+*Please load the "Examle_Map.txt" for reference*
 
 ## Features
 
