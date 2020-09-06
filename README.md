@@ -36,10 +36,13 @@ The program frovides you with couple of features
 
 ## Features
 
-Importing / Exporting of the map.<br>
-Map Resizing - .<br>
-Zoom In/Out - When hovering on the grid simply use your scroll wheel, to zoom in/out of the grid.<br>
-Block Picker Mode - When activated the user can select a block from the grid. ( Press 'b' to activate )<br>
+Importing / Exporting - Enable's saving and loading of maps.<br>
+Map Resizing - Scale the map size to the perfect size for your game.<br>
+Zoom In/Out - Uses the scroll wheel, to zoom in/out.<br>
+Block Picker Mode - Enable's selection of a block to draw with, from the grid.<br>
+Hand Mode - Enable's movement of the grid.<br>
+<br>
+Secret Options - Enable's the user to see the current mode selected.
 
 ### How to use
 
@@ -59,14 +62,23 @@ Enter the width and height of the grid, then click the "Resize Grid" button.
 
 #### Zoom In/Out
 
+When hovering on the grid simply use your scroll wheel, to zoom in/out of the grid.
 
+#### Block Picker Mode
 
+When activated the user can select a block from the grid.<br>
+- Press 'b' to activate / deactivate.
 
+#### Hand Mode
 
+When activated, clicking on the grid will "catch" the grid at that point, and you will be able to move the grid freely.<br>
+- Press 'v' to activate / deactivate.
 
+#### Secret Options
 
-
-
+This mode is used to clear up space in the window.<br>
+When activated you will be able to see a menu will all the modes, and their current status.<br>
+- Press 'o' to reveal / hide the menu.
 
 
 
