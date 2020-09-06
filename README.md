@@ -1,38 +1,17 @@
 # Game-Map-Maker
 Java GUI program that enables the user to create maps for 2d games with ease.
 
-
-
-## Setup
-
-
-
-
 ## How to use
 
-
-
-
-### How to use my own sprite sheet ?
-
-Resized your sprite sheet width to 256px. ( The height isn't a factor )<br>
-Each sprite should be 64x64.<br>
-Change your sprite sheet name to : 'Sprite.png'<br>
-Lastly replace the file in './src/ResourcePack/', with your file.<br>
-<br>
-Note :<br>
-* The sprite's top column and the left row are used as a separators. ( each sprite is actually 63x63 with a buffer at the top and left )
-
-### Introduction
-
-The program frovides you with couple of features 
-
-
-
-
-
-
 1. Open the Map_Maker.jar file.<br>
+2. Select a block by left clicking a sprite from the sprite sheet on the right. ( You can scroll up / down to reveal more sprites )<br>
+3. Click / Drag your mouse on the grid to draw.<br>
+4. Delete blocks by right clicking / draging your mouse over them.<br>
+5. After finishing the map, make sure to save it by clicking the "Save Map" button on the top right.<br>
+<br>
+* Use the extra features for better control, ease of use, and over all a better experience.
+
+
 
 ## Features
 
@@ -81,10 +60,12 @@ When activated you will be able to see a menu will all the modes, and their curr
 - Press 'o' to reveal / hide the menu.
 
 
+## How to use my own sprite sheet ?
 
-
-
-
-
-
-
+Resized your sprite sheet width to 256px. ( The height isn't a factor )<br>
+Each sprite should be 64x64.<br>
+Change your sprite sheet name to : 'Sprite.png'<br>
+Lastly replace the file in './src/ResourcePack/', with your file.<br>
+<br>
+Note :<br>
+* The sprite's top column and the left row are used as a separators. ( each sprite is actually 63x63 with a buffer at the top and left )
