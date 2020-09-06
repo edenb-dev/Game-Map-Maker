@@ -68,8 +68,8 @@ public class Main extends Application {
 		CreateLabel(ScreenWidth*0.5-ScreenHeight*0.19,ScreenHeight*0.04,0,0,"HiddenOptions : False","MoreOptions","Menu",Scene);
 		CreateButton(ScreenWidth*0.5-ScreenHeight*0.19,ScreenHeight*0.056,0,0,"Save Map",Event->Save(Scene),"Button_Save","Menu",Scene);
 		CreateButton(ScreenWidth*0.5-ScreenHeight*0.13,ScreenHeight*0.056,0,0,"Reset Grid",Event->ResetGrid(Scene),"Button_ResetGrid","Menu",Scene);
-		CreateButton(ScreenWidth*0.5-ScreenHeight*0.07,ScreenHeight*0.056,0,0,"LoadMap",Event->LoadMap(Scene),"Button_LoadMap","Menu",Scene);
-		CreateButton(ScreenWidth*0.5-ScreenHeight*0.07,ScreenHeight*0.078,0,0,"NewGrid",Event->RescaleGrid(Scene),"Button_NewGrid","Menu",Scene);
+		CreateButton(ScreenWidth*0.5-ScreenHeight*0.07,ScreenHeight*0.056,0,0,"Load Map",Event->LoadMap(Scene),"Button_LoadMap","Menu",Scene);
+		CreateButton(ScreenWidth*0.5-ScreenHeight*0.07,ScreenHeight*0.078,0,0,"Resize Grid",Event->RescaleGrid(Scene),"Button_NewGrid","Menu",Scene);
 		CreateTextField(ScreenWidth*0.5-ScreenHeight*0.19,ScreenHeight*0.078,0,0,"Width","TextField_NewWidth","Menu",Scene);
 		CreateTextField(ScreenWidth*0.5-ScreenHeight*0.13,ScreenHeight*0.078,0,0,"Height","TextField_NewHeight","Menu",Scene);		
 	}
